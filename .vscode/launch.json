@@ -8,8 +8,8 @@
             "type": "chrome",
             "request": "launch",
             "name": "Launch Chrome against localhost",
-            "url": "C://Users//Emmanuel//Desktop//roottech",
-            "webRoot": "C://Users//Emmanuel//Desktop//roottech"
+            "url": "C://xampp//htdocs//roottech",
+            "webRoot": "C://xampp//htdocs//roottech"
         }
     ]
 }
