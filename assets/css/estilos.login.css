@@ -10,32 +10,35 @@
 		text-align: center;
 	}
 	.conta{
-		width: 700px;
+		width: 500px;
 		margin:auto;
-		border: 5px solid #c9c9c9;
-		padding: 30px 50px 60px;
-		background: #fff;
-		border-radius: 7px;
+		border: 5px radius #daa30d7e;
+		padding: 40px;
+		background: rgba(39, 202, 39, 0.322);
+	
+	
 		margin-top: 100px;
+		
 	}
 	body{
-	    background-color: #57c9dd;
-	    opacity: 0.9;
+	    background-color: #06d5e4af;
+	
 	    margin:auto;
 	    width: 90%;
 	   /* background-repeat: no-repeat;*/
 	}
 	.error{
-		color: #000;
+		color: rgb(105, 10, 214);
 	}
 	.enviar{
-		background: #36D05E;
-		color: #fff;
+		background: #d07b36;
+		color: rgb(241, 118, 16);
 		border-radius:8px;
 		height: 50px;
 	}
 	.form-control{
-		border-bottom:3px solid #2F49E6;
+		border-bottom:3px solid #e6a62f;
+		border-radius: 5em;
 	}
 hr{
 	border: 4px solid #FF4B0C;

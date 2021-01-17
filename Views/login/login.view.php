@@ -13,7 +13,7 @@
 <div class="row">
 	<div class="col-md-12">
     <div class="conta">
-       <h1>Restaurant&nbsp;&nbsp;&nbsp;<i class="fa fa-cutlery"></i> ToRest</h1>
+       <h1>Roottech<i class="fa fa-cutlery"></i></h1>
 		<form class="" action="<?php echo htmlspecialchars($_SERVER['PHP_SELF']); ?>" method="post">
 		<hr>
 	  <div class="form-group">
@@ -24,7 +24,7 @@
 	      <i class="fa fa-unlock-alt"></i> <label for="password"><b> Contraseña del  Usuario</b></label> 
 		<input type="password" name="password" class="form-control" placeholder="Contraseña Usuario">
 	  </div><br>
-
+	
 
        <?php  if(!isset($_SESSION['nombreusuario'])){
                  require 'btn.php'; }?>
@@ -40,8 +40,13 @@
                 <div class="error">                
                      <?php echo $error ?>
                </div>
-            <?php endif; ?>
+			<?php endif; ?>
+		
+			
+		
+	  
 		</form>
+		
     </div>
 	</div>
 </div>
