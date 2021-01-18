@@ -5,7 +5,7 @@
 	<link rel="stylesheet" type="text/css" href="../../assets/css/bootstrap.css">
 	<link rel="stylesheet" type="text/css" href="../../assets/css/font-awesome.min.css">
 	<link rel="stylesheet" type="text/css" href="../../assets/css/estilos.login.css">
-	<title>Login rootecn</title>
+	<title>Foodsystematic</title>
 </head>
 
 <body>
@@ -17,7 +17,7 @@
 		<form class="" action="<?php echo htmlspecialchars($_SERVER['PHP_SELF']); ?>" method="post">
 		<hr>
 	  <div class="form-group">
-		 <i class="fa fa-user"></i> <label for="nombreusuario"><b> INGRESA TU NOMBRE QUERIDO USUARIO</b></label>	    
+		 <i class="fa fa-user"></i> <label for="nombreusuario"><b> USUARIO</b></label>	    
 		<input type="text" name="nombreusuario" class="form-control" placeholder="Nombre Usuario ">
 	  </div>
 	  <div class="form-group">
