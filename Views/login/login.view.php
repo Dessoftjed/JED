@@ -17,7 +17,7 @@
 		<form class="" action="<?php echo htmlspecialchars($_SERVER['PHP_SELF']); ?>" method="post">
 		<hr>
 	  <div class="form-group">
-		 <i class="fa fa-user"></i> <label for="nombreusuario"><b> USUARIO</b></label>	    
+		 <i class="fa fa-user"></i> <label for="nombreusuario"><b> INGRESA TU NOMBRE QUERIDO USUARIO</b></label>	    
 		<input type="text" name="nombreusuario" class="form-control" placeholder="Nombre Usuario ">
 	  </div>
 	  <div class="form-group">
