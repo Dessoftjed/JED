@@ -1,1 +1,2 @@
-	<input type="submit" name="submit" value="INGRESAR AL SISTEMA" class="form-control btn btn-danger">
+	<input type="submit" name="submit" value="INGRESAR AL SISTEMA" class="form-control btn btn-danger" >
+	
