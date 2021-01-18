@@ -5,7 +5,7 @@
 	<link rel="stylesheet" type="text/css" href="../../assets/css/bootstrap.css">
 	<link rel="stylesheet" type="text/css" href="../../assets/css/font-awesome.min.css">
 	<link rel="stylesheet" type="text/css" href="../../assets/css/estilos.login.css">
-	<title>Login Sistema Video Club</title>
+	<title>Login rootecn</title>
 </head>
 
 <body>
@@ -17,11 +17,11 @@
 		<form class="" action="<?php echo htmlspecialchars($_SERVER['PHP_SELF']); ?>" method="post">
 		<hr>
 	  <div class="form-group">
-		 <i class="fa fa-user"></i> <label for="nombreusuario"><b> Nombre del Usuario</b></label>	    
+		 <i class="fa fa-user"></i> <label for="nombreusuario"><b> USUARIO</b></label>	    
 		<input type="text" name="nombreusuario" class="form-control" placeholder="Nombre Usuario ">
 	  </div>
 	  <div class="form-group">
-	      <i class="fa fa-unlock-alt"></i> <label for="password"><b> Contraseña del  Usuario</b></label> 
+	      <i class="fa fa-unlock-alt"></i> <label for="password"><b>CONTRASEÑA</b></label> 
 		<input type="password" name="password" class="form-control" placeholder="Contraseña Usuario">
 	  </div><br>
 	
