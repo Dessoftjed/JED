@@ -3,7 +3,7 @@
 
 <footer>
 	<center>
-		<small><i>Copyright (c) Diego, Paulino Joel y emmanuel <?php echo date('Y'); ?> <a href="" target="_blanck"> Restaurante FoodSystematic .</a></i></small>
+		<small><i>Copyright (c) Diego, Paulino Joel <?php echo date('Y'); ?> <a href="" target="_blanck"> Restaurante FoodSystematic .</a></i></small>
 	</center>
 </footer>
 </div>
