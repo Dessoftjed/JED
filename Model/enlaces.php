@@ -209,6 +209,11 @@ class Paginas{
 			$module =  "Views/modules/productos/editarProductos.php";
 		
 		}
+		else if($enlaces == "ra"){
+
+			$module =  "Views/modules/productos/ra.php";
+		
+		}
 		else if($enlaces == "okEditar"){
 			$module =  "Views/modules/productos/listadoProd.php";
 		}

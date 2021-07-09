@@ -77,7 +77,7 @@
 <?php else: ?>
 
   <!-- #===============================================================
-   Fin
+   Fin{}
   0===================================================================== -->
 <nav class="navbar navbar-dark bg-warning">
   <button class="navbar-toggler hidden-lg-up" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"></button>
@@ -88,7 +88,15 @@
         <a class="nav-link dropdown-toggle" href="#" id="responsiveNavbarDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true"><i class="fa fa-product-hunt" aria-hidden="true"></i> Productos</a>
         <div class="dropdown-menu" id="sub" aria-labelledby="responsiveNavbarDropdown">
           <a id="sub" class="dropdown-item" href="listadoProd"><i class="btn btn-primary btn-sm  fa fa-list-ol"></i> Listado Productos</a>
-        
+
+
+
+  
+          <a id="sub" class="dropdown-item" href="ra"><i class="btn btn-primary btn-sm  fa fa-list-ol"></i> Interacción con Realidad Aumentada </a>
+
+
+
+
         </div>
       </li>
       <li class="nav-item dropdown nav-item active">
